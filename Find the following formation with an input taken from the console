@@ -12,16 +12,16 @@ public class lab4 {
 public static void main(String[] args) {
 Scanner input = new Scanner(System.input);
 int i,j;
-System.out.print(&quot;Enter the number: &quot;);
+System.out.print("&quot;Enter the number: ");
 int n = in.nextInt();
 for(i=1;i&lt;=n;i++)
 {
 
 for(j=1;j&lt;=n;j++)
 {
-System.out.print(+i+&quot; &quot;);
+System.out.print(+i+" ");
 }
-System.out.print(&quot;\n&quot;);
+System.out.print("\n";);
 }
 }
 }
